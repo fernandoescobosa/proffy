@@ -10,6 +10,7 @@ async function pageStudy(req, res) {
     const filters = req.query
 
     if (!filters.subject || !filters.weekday || !filters.time) {
+        console.log("passei aqui")
         return res.render("study.html", { filters, subjects, weekdays })
     }
 
