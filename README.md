@@ -14,4 +14,4 @@ O Proffy é uma plaraforma que conecta alunos e professores.
 Com o término do evento NLW#2 da Rocketseat, alguns desafios foram propostos e estão sendo implementados.
 
 1. Tela de confirmação de cadastro, com redirecionamento para a página de pesquisa de professores automático ou através de link.
-2. (Em produção) No formulário de cadastro de professores, além de adicionar novo horário, é também possível excluir.
+2. (Próximo passo) No formulário de cadastro de professores, além de adicionar novo horário, é também possível excluir.
